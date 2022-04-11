@@ -1,16 +1,18 @@
 # Minecraft自用模组集
-仅对游戏进行优化及辅助，不改变游戏玩法
-
-包括优化类、辅助类模组
+仅对游戏进行优化、辅助和拓展，不改变游戏玩法
 
 ## 目录
 - [1.18.2](https://github.com/LingEmberMaple/My_Minecraft_Mod_list#1182)
-  - [优化类](https://github.com/LingEmberMaple/My_Minecraft_Mod_list#%E4%BC%98%E5%8C%96%E7%B1%BB)
-  - [辅助类](https://github.com/LingEmberMaple/My_Minecraft_Mod_list#%E8%BE%85%E5%8A%A9%E7%B1%BB)
+  - [优化](https://github.com/LingEmberMaple/My_Minecraft_Mod_list#优化)
+  - [辅助](https://github.com/LingEmberMaple/My_Minecraft_Mod_list#辅助)
+  - [扩展](https://github.com/LingEmberMaple/My_Minecraft_Mod_list#扩展)
 
 ## 1.18.2
-- ###### 优化类
+- ###### 优化
   -
   
-- ###### 辅助类
+- ###### 辅助
+  - 
+
+- ###### 扩展
   - 
