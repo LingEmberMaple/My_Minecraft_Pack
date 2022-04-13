@@ -71,3 +71,6 @@
 |挖掘计分板|[Github](https://github.com/Fallen-Breath/DiggyScoreboard)|
 
 ## 建议与反馈
+如果您有任何建议或想要反馈，请在[Issues](https://github.com/LingEmberMaple/My_Minecraft_Pack/issues)与[Discussions](https://github.com/LingEmberMaple/My_Minecraft_Pack/discussions)中发帖
+
+感谢您的建议与反馈，您的建议将帮助我完善此集
