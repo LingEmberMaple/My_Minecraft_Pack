@@ -42,6 +42,14 @@
 |Fabric Bedrock Miner|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/fabric-bedrock-miner) / [Github](https://github.com/LXYan2333/Fabric-Bedrock-Miner) / [Gitee](https://gitee.com/lxyan2333/Fabric-Bedrock-Miner)|
 |Carpet|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/carpet) / [Github](https://github.com/gnembon/fabric-carpet)|
 |Carpet TIS Addition|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/carpet-tis-addition) / [Modrinth](https://modrinth.com/mod/carpet-tis-addition) / [Github](https://github.com/TISUnion/Carpet-TIS-Addition)|
+|Carpet Extra|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/carpet-extra) / [Github](https://github.com/gnembon/carpet-extra)|
+|Inventory Profiles Next|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/inventory-profiles-next) / [Modrinrh](https://modrinth.com/mod/inventory-profiles-next) / [Github](https://github.com/blackd/Inventory-Profiles)|
+|Litematica Server Paster|[Modrinth](https://modrinth.com/mod/litematica-server-paster) / [Github](https://github.com/Fallen-Breath/litematica-server-paster)|
+|MasaGadget|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/masa-gadget) / [Modrinth](https://modrinth.com/mod/masa-gadget) / [Github](https://github.com/plusls/MasaGadget)|
+|Oh My Minecraft Client|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/oh-my-minecraft-client) / [Modrinth](https://modrinth.com/mod/oh-my-minecraft-client) / [Github](https://github.com/plusls/oh-my-minecraft-client)|
+|Plusls Carpet Addition|[Github](https://github.com/plusls/plusls-carpet-addition)|
+|Tweakermore|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/tweakermore) / [Modrinth](https://modrinth.com/mod/tweakermore) / [Github](https://github.com/Fallen-Breath/tweakermore)|
+
 - ###### 其他模组
 
 - ###### 资源包
