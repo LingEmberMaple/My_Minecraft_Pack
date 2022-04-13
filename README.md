@@ -51,6 +51,14 @@
 |Tweakeroo|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/tweakeroo) / [MASA](https://masa.dy.fi/tmp/minecraft/mods/client_mods/) / [Github](https://github.com/maruohon/tweakeroo)|
 
 - ###### 其他模组
+|模组|链接|
+|:---:|:---:|
+|Cloth Config API|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/cloth-config) / [Github](https://github.com/shedaniel/cloth-config)|
+|CIT Resewn|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/cit-resewn) / [Modrinth](https://modrinth.com/mod/cit-resewn) / [Github](https://github.com/SHsuperCM/CITResewn)|
+|Fabric API|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/fabric-api) / [Modrinth](https://modrinth.com/mod/fabric-api) / [Github](https://github.com/FabricMC/fabric)|
+|IMBlockerFabric|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/imblockerfabric) / [Github](https://github.com/mrjesen/ImBlockerFabric)|
+|LAN World Plug-n-Play|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/mcwifipnp) / [Modrinth](https://modrinth.com/mod/mcwifipnp) / [Github](https://github.com/Satxm/mcwifipnp)|
+|Mod Menu|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/modmenu) / [Modrinth](https://modrinth.com/mod/modmenu) / [Github](https://github.com/TerraformersMC/ModMenu)|
 
 - ###### 资源包
 
