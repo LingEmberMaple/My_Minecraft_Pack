@@ -66,7 +66,7 @@
 |XeKr材质包|[密码:d6dn](https://xekr.lanzouq.com/b01bn74zc)|
 |护眼大补丸|[密码:52pc](https://hsds.lanzouf.com/iHAXB0242oad)|
 - ###### 数据包
-- |数据包|链接|
+|数据包|链接|
 |:---:|:---:|
 |挖掘计分板|[Github](https://github.com/Fallen-Breath/DiggyScoreboard)|
 
