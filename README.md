@@ -36,6 +36,7 @@
 |Carpet Extra|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/carpet-extra) / [Github](https://github.com/gnembon/carpet-extra)|
 |Carpet TIS Addition|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/carpet-tis-addition) / [Modrinth](https://modrinth.com/mod/carpet-tis-addition) / [Github](https://github.com/TISUnion/Carpet-TIS-Addition)|
 |Carpet|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/carpet) / [Github](https://github.com/gnembon/fabric-carpet)|
+|Clientcommands|[Github](https://github.com/Earthcomputer/clientcommands)|
 |Fabric Bedrock Miner|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/fabric-bedrock-miner) / [Github](https://github.com/LXYan2333/Fabric-Bedrock-Miner) / [Gitee](https://gitee.com/lxyan2333/Fabric-Bedrock-Miner)|
 |Inventory Profiles Next|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/inventory-profiles-next) / [Modrinrh](https://modrinth.com/mod/inventory-profiles-next) / [Github](https://github.com/blackd/Inventory-Profiles)|
 |Item Scroller|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/item-scroller) / [MASA](https://masa.dy.fi/tmp/minecraft/mods/client_mods/) / [Github](https://github.com/maruohon/itemscroller)|
