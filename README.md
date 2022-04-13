@@ -8,9 +8,14 @@
 
 ## 1.18.2
 - ###### 优化
-|Mod|描述|下载|
-|---|---|---|
-||||
+|模组|链接|
+|:---:|:---:|
+|Sodium|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/sodium) / [Modrinth](https://modrinth.com/mod/sodium) / [Github](https://github.com/CaffeineMC/sodium-fabric)|
+|Lithium|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/lithium) / [Modrinth](https://modrinth.com/mod/lithium) / [Github](https://github.com/CaffeineMC/lithium-fabric)|
+|FerriteCore|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric) / [Modrinth](https://modrinth.com/mod/ferrite-core) / [Github](https://github.com/malte0811/FerriteCore)|
+|Starlight|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/starlight) / [Modrinth](https://modrinth.com/mod/starlight) / [Github](https://github.com/PaperMC/Starlight)|
+|Entity Culling|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/entityculling) / [Github](https://github.com/tr7zw/EntityCulling)|
+|Enhanced Block Entities|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/enhanced-block-entities) / [Modrinth](https://modrinth.com/mod/ebe) / [Github](https://github.com/FoundationGames/EnhancedBlockEntities)|
   
 - ###### 辅助
   - 
