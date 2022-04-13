@@ -46,6 +46,7 @@
 |MiniHUD|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/minihud) / [MASA](https://masa.dy.fi/tmp/minecraft/mods/client_mods/) / [Github](https://github.com/maruohon/minihud)|
 |Oh My Minecraft Client|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/oh-my-minecraft-client) / [Modrinth](https://modrinth.com/mod/oh-my-minecraft-client) / [Github](https://github.com/plusls/oh-my-minecraft-client)|
 |Plusls Carpet Addition|[Github](https://github.com/plusls/plusls-carpet-addition)|
+|Servux|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/servux) / [MASA](https://masa.dy.fi/tmp/minecraft/mods/client_mods/)|
 |Tweakermore|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/tweakermore) / [Modrinth](https://modrinth.com/mod/tweakermore) / [Github](https://github.com/Fallen-Breath/tweakermore)|
 |Tweakeroo|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/tweakeroo) / [MASA](https://masa.dy.fi/tmp/minecraft/mods/client_mods/) / [Github](https://github.com/maruohon/tweakeroo)|
 
