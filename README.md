@@ -1,5 +1,5 @@
 # Minecraft自用集
-仅对游戏进行优化、辅助，不改变游戏玩法
+仅对游戏进行优化、辅助，不改变原版游戏玩法
 
 ## 目录
 - [1.18.2](https://github.com/LingEmberMaple/My_Minecraft_Mod_list#1182)
