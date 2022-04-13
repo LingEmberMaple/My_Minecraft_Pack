@@ -38,6 +38,8 @@
 |MiniHUD|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/minihud) / [MASA](https://masa.dy.fi/tmp/minecraft/mods/client_mods/) / [Github](https://github.com/maruohon/minihud)|
 |Tweakeroo|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/tweakeroo) / [MASA](https://masa.dy.fi/tmp/minecraft/mods/client_mods/) / [Github](https://github.com/maruohon/tweakeroo)|
 |Fabric Bedrock Miner|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/fabric-bedrock-miner) / [Github](https://github.com/LXYan2333/Fabric-Bedrock-Miner) / [Gitee](https://gitee.com/lxyan2333/Fabric-Bedrock-Miner)|
+|Carpet|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/carpet) / [Github](https://github.com/gnembon/fabric-carpet)|
+|Carpet TIS Addition|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/carpet-tis-addition) / [Modrinth](https://modrinth.com/mod/carpet-tis-addition) / [Github](https://github.com/TISUnion/Carpet-TIS-Addition)|
 - ###### 其他模组
 
 - ###### 资源包
