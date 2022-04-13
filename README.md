@@ -1,5 +1,3 @@
-# 施工中
-
 # Minecraft自用集
 仅对游戏进行优化、辅助，不改变游戏玩法
 
@@ -10,6 +8,7 @@
   - [其他模组](https://github.com/LingEmberMaple/My_Minecraft_Mod_list#其他模组)
   - [资源包](https://github.com/LingEmberMaple/My_Minecraft_Mod_list#资源包)
   - [数据包](https://github.com/LingEmberMaple/My_Minecraft_Mod_list#数据包)
+- [建议与反馈](https://github.com/LingEmberMaple/My_Minecraft_Mod_list#建议与反馈)
 
 ## 1.18.2
 - ###### 优化模组
@@ -53,13 +52,22 @@
 - ###### 其他模组
 |模组|链接|
 |:---:|:---:|
-|Cloth Config API|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/cloth-config) / [Github](https://github.com/shedaniel/cloth-config)|
 |CIT Resewn|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/cit-resewn) / [Modrinth](https://modrinth.com/mod/cit-resewn) / [Github](https://github.com/SHsuperCM/CITResewn)|
+|Cloth Config API|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/cloth-config) / [Github](https://github.com/shedaniel/cloth-config)|
 |Fabric API|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/fabric-api) / [Modrinth](https://modrinth.com/mod/fabric-api) / [Github](https://github.com/FabricMC/fabric)|
 |IMBlockerFabric|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/imblockerfabric) / [Github](https://github.com/mrjesen/ImBlockerFabric)|
 |LAN World Plug-n-Play|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/mcwifipnp) / [Modrinth](https://modrinth.com/mod/mcwifipnp) / [Github](https://github.com/Satxm/mcwifipnp)|
 |Mod Menu|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/modmenu) / [Modrinth](https://modrinth.com/mod/modmenu) / [Github](https://github.com/TerraformersMC/ModMenu)|
 
 - ###### 资源包
-
+|资源包|链接|
+|:---:|:---:|
+|MASA全家桶汉化包|[简体中文](https://wwe.lanzouo.com/i7gL5zgrube) / [繁体中文(香港)](https://wwe.lanzouo.com/ii9S2zgrucf) / [繁体中文(台湾)](https://wwe.lanzouo.com/igzuEzgruad)|
+|XeKr材质包|[密码:d6dn](https://xekr.lanzouq.com/b01bn74zc)|
+|护眼大补丸|[密码:52pc](https://hsds.lanzouf.com/iHAXB0242oad)|
 - ###### 数据包
+- |数据包|链接|
+|:---:|:---:|
+|挖掘计分板|[Github](https://github.com/Fallen-Breath/DiggyScoreboard)|
+
+## 建议与反馈
