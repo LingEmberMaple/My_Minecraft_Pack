@@ -3,11 +3,13 @@
 
 ## 目录
 - [1.18.2](https://github.com/LingEmberMaple/My_Minecraft_Mod_list#1182)
-  - [优化](https://github.com/LingEmberMaple/My_Minecraft_Mod_list#优化)
-  - [辅助](https://github.com/LingEmberMaple/My_Minecraft_Mod_list#辅助)
+  - [优化模组](https://github.com/LingEmberMaple/My_Minecraft_Mod_list#优化模组)
+  - [辅助模组](https://github.com/LingEmberMaple/My_Minecraft_Mod_list#辅助模组)
+  - [资源包](https://github.com/LingEmberMaple/My_Minecraft_Mod_list#资源包)
+  - [数据包](https://github.com/LingEmberMaple/My_Minecraft_Mod_list#数据包)
 
 ## 1.18.2
-- ###### 优化
+- ###### 优化模组
 |模组|链接|
 |:---:|:---:|
 |Sodium|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/sodium) / [Modrinth](https://modrinth.com/mod/sodium) / [Github](https://github.com/CaffeineMC/sodium-fabric)|
@@ -17,5 +19,8 @@
 |Entity Culling|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/entityculling) / [Github](https://github.com/tr7zw/EntityCulling)|
 |Enhanced Block Entities|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/enhanced-block-entities) / [Modrinth](https://modrinth.com/mod/ebe) / [Github](https://github.com/FoundationGames/EnhancedBlockEntities)|
   
-- ###### 辅助
-  - 
+- ###### 辅助模组
+
+- ###### 资源包
+
+- ###### 数据包
